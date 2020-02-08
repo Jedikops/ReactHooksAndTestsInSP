@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`first button restult check 1`] = `
+<Component>
+  <Component>
+    <div>
+      <div
+        className="count"
+      >
+        1
+      </div>
+    </div>
+  </Component>
+  <Component
+    component={1}
+  >
+    <div>
+      <div>
+        <button
+          className="firstButton"
+          onClick={[Function]}
+        >
+          +
+        </button>
+        <button
+          className="secondButton"
+          onClick={[Function]}
+        >
+          -
+        </button>
+        <button
+          className="thirdButton"
+          onClick={[Function]}
+        >
+          Reset
+        </button>
+      </div>
+    </div>
+  </Component>
+</Component>
+`;
+
+exports[`initial test to verify inital count of counter 1`] = `
+<Component>
+  <Component>
+    <div>
+      <div
+        className="count"
+      >
+        0
+      </div>
+    </div>
+  </Component>
+  <Component
+    component={1}
+  >
+    <div>
+      <div>
+        <button
+          className="firstButton"
+          onClick={[Function]}
+        >
+          +
+        </button>
+        <button
+          className="secondButton"
+          onClick={[Function]}
+        >
+          -
+        </button>
+        <button
+          className="thirdButton"
+          onClick={[Function]}
+        >
+          Reset
+        </button>
+      </div>
+    </div>
+  </Component>
+</Component>
+`;
